@@ -111,12 +111,12 @@ const BuyBPCPayment = () => {
         <div className="mb-3 border-t pt-3">
           <p className="text-gray-500 text-xs">Account Number</p>
           <div className="flex justify-between items-center">
-            <p className="text-lg font-bold">8900171214</p>
+            <p className="text-lg font-bold">7043209087</p>
             <Button
               variant="default"
               size="sm"
               className="bg-blue-600 hover:bg-blue-700 flex items-center gap-1"
-              onClick={() => handleCopy("8900171214", "Account Number")}
+              onClick={() => handleCopy("7043209087", "Account Number")}
             >
               <Copy size={14} />
               Copy
@@ -126,12 +126,12 @@ const BuyBPCPayment = () => {
 
         <div className="mb-3 border-t pt-3">
           <p className="text-gray-500 text-xs">Bank Name</p>
-          <p className="text-lg font-bold">PALMPAY</p>
+          <p className="text-lg font-bold">MONIEPOINTMFB</p>
         </div>
 
         <div className="mb-3 border-t pt-3">
           <p className="text-gray-500 text-xs">Account Name</p>
-          <p className="text-lg font-bold">USMAN KATUN MOHAMMED</p>
+          <p className="text-lg font-bold">SAMUEL KALLY</p>
         </div>
       </div>
 
