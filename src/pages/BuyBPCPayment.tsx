@@ -131,7 +131,7 @@ const BuyBPCPayment = () => {
 
         <div className="mb-3 border-t pt-3">
           <p className="text-gray-500 text-xs">Account Name</p>
-          <p className="text-lg font-bold">USMAN KATUN MOHAMMED</p>
+          <p className="text-lg font-bold">Miniemoney-USMAN KATUN MOHAMMED</p>
         </div>
       </div>
 
